@@ -1,0 +1,32 @@
+{
+    "name": "@thenhthang/teatestnet",
+    "version": "0.0.1",
+    "description": "Tea Protocol Testnet By NodesRunner",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thenhthang/teatestnet.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "NodesRunner",
+        "email": "vinnodes@gmail.com",
+        "url": "https://vinnodes.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/thenhthang/teatestnet/issues"
+    },
+    "homepage": "https://github.com/thenhthang/teatestnet#readme"
+}
