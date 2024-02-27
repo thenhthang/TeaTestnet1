@@ -25,7 +25,7 @@
         "url": "https://vinnodes.com"
     },
     "dependencies": {
-    "@thenhthang/react-native-colorpicker": "^0.0.10",
+    "@thenhthang/react-native-colorpicker": "^0.0.10"
     }
     "license": "MIT",
     "bugs": {
