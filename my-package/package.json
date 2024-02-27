@@ -1,7 +1,7 @@
 {
     "name": "@thenhthang/TeaTestnet1",
-    "version": "0.0.1",
-    "description": "Tea Protocol Testnet By NodesRunner",
+    "version": "0.0.11",
+    "description": "📦 npm package tutorial",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
@@ -20,9 +20,8 @@
         "registry"
     ],
     "author": {
-        "name": "NodesRunner",
-        "email": "vinnodes@gmail.com",
-        "url": "https://vinnodes.com"
+        "name": "thegianvn",
+        "email": "thegianvn@gmail.com",
     },
     "license": "MIT",
     "bugs": {
