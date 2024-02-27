@@ -26,7 +26,7 @@
     },
     "dependencies": {
     "@thenhthang/react-native-colorpicker": "^0.0.10"
-    }
+    },
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/thenhthang/TeaTestnet1/issues"
